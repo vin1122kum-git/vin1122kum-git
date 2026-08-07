@@ -31,4 +31,8 @@ I'm Backend Engineer passionate about building scalable distributed systems usin
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/vin1122kum-git/vin1122kum-git/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/vin1122kum-git/vin1122kum-git/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
