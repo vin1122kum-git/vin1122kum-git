@@ -49,15 +49,18 @@ I'm Backend Engineer passionate about building scalable distributed systems usin
 | ------- |
 | [0088-merge-sorted-array](https://github.com/vin1122kum-git/vin1122kum-git/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vin1122kum-git/vin1122kum-git/tree/master/0215-kth-largest-element-in-an-array) |
+| [0658-find-k-closest-elements](https://github.com/vin1122kum-git/vin1122kum-git/tree/master/0658-find-k-closest-elements) |
 ## Two Pointers
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/vin1122kum-git/vin1122kum-git/tree/master/0088-merge-sorted-array) |
+| [0658-find-k-closest-elements](https://github.com/vin1122kum-git/vin1122kum-git/tree/master/0658-find-k-closest-elements) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/vin1122kum-git/vin1122kum-git/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vin1122kum-git/vin1122kum-git/tree/master/0215-kth-largest-element-in-an-array) |
+| [0658-find-k-closest-elements](https://github.com/vin1122kum-git/vin1122kum-git/tree/master/0658-find-k-closest-elements) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -66,8 +69,17 @@ I'm Backend Engineer passionate about building scalable distributed systems usin
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/vin1122kum-git/vin1122kum-git/tree/master/0215-kth-largest-element-in-an-array) |
+| [0658-find-k-closest-elements](https://github.com/vin1122kum-git/vin1122kum-git/tree/master/0658-find-k-closest-elements) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/vin1122kum-git/vin1122kum-git/tree/master/0215-kth-largest-element-in-an-array) |
+## Binary Search
+|  |
+| ------- |
+| [0658-find-k-closest-elements](https://github.com/vin1122kum-git/vin1122kum-git/tree/master/0658-find-k-closest-elements) |
+## Sliding Window
+|  |
+| ------- |
+| [0658-find-k-closest-elements](https://github.com/vin1122kum-git/vin1122kum-git/tree/master/0658-find-k-closest-elements) |
 <!---LeetCode Topics End-->
