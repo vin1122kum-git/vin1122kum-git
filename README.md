@@ -23,6 +23,7 @@ I'm Backend Engineer passionate about building scalable distributed systems usin
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/vin1122kum-git/vin1122kum-git/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0767-reorganize-string](https://github.com/vin1122kum-git/vin1122kum-git/tree/master/0767-reorganize-string) |
 ## String
 |  |
 | ------- |
@@ -30,6 +31,7 @@ I'm Backend Engineer passionate about building scalable distributed systems usin
 | [0168-excel-sheet-column-title](https://github.com/vin1122kum-git/vin1122kum-git/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/vin1122kum-git/vin1122kum-git/tree/master/0171-excel-sheet-column-number) |
 | [0402-remove-k-digits](https://github.com/vin1122kum-git/vin1122kum-git/tree/master/0402-remove-k-digits) |
+| [0767-reorganize-string](https://github.com/vin1122kum-git/vin1122kum-git/tree/master/0767-reorganize-string) |
 ## Backtracking
 |  |
 | ------- |
@@ -62,6 +64,7 @@ I'm Backend Engineer passionate about building scalable distributed systems usin
 | [0088-merge-sorted-array](https://github.com/vin1122kum-git/vin1122kum-git/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vin1122kum-git/vin1122kum-git/tree/master/0215-kth-largest-element-in-an-array) |
 | [0658-find-k-closest-elements](https://github.com/vin1122kum-git/vin1122kum-git/tree/master/0658-find-k-closest-elements) |
+| [0767-reorganize-string](https://github.com/vin1122kum-git/vin1122kum-git/tree/master/0767-reorganize-string) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -71,6 +74,7 @@ I'm Backend Engineer passionate about building scalable distributed systems usin
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/vin1122kum-git/vin1122kum-git/tree/master/0215-kth-largest-element-in-an-array) |
 | [0658-find-k-closest-elements](https://github.com/vin1122kum-git/vin1122kum-git/tree/master/0658-find-k-closest-elements) |
+| [0767-reorganize-string](https://github.com/vin1122kum-git/vin1122kum-git/tree/master/0767-reorganize-string) |
 ## Quickselect
 |  |
 | ------- |
@@ -91,8 +95,13 @@ I'm Backend Engineer passionate about building scalable distributed systems usin
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/vin1122kum-git/vin1122kum-git/tree/master/0402-remove-k-digits) |
+| [0767-reorganize-string](https://github.com/vin1122kum-git/vin1122kum-git/tree/master/0767-reorganize-string) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/vin1122kum-git/vin1122kum-git/tree/master/0402-remove-k-digits) |
+## Counting
+|  |
+| ------- |
+| [0767-reorganize-string](https://github.com/vin1122kum-git/vin1122kum-git/tree/master/0767-reorganize-string) |
 <!---LeetCode Topics End-->
