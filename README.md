@@ -43,6 +43,7 @@ I'm Backend Engineer passionate about building scalable distributed systems usin
 | [0060-permutation-sequence](https://github.com/vin1122kum-git/vin1122kum-git/tree/master/0060-permutation-sequence) |
 | [0168-excel-sheet-column-title](https://github.com/vin1122kum-git/vin1122kum-git/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/vin1122kum-git/vin1122kum-git/tree/master/0171-excel-sheet-column-number) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/vin1122kum-git/vin1122kum-git/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Recursion
 |  |
 | ------- |
