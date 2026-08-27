@@ -24,6 +24,7 @@ I'm Backend Engineer passionate about building scalable distributed systems usin
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/vin1122kum-git/vin1122kum-git/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0767-reorganize-string](https://github.com/vin1122kum-git/vin1122kum-git/tree/master/0767-reorganize-string) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/vin1122kum-git/vin1122kum-git/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## String
 |  |
 | ------- |
@@ -32,6 +33,7 @@ I'm Backend Engineer passionate about building scalable distributed systems usin
 | [0171-excel-sheet-column-number](https://github.com/vin1122kum-git/vin1122kum-git/tree/master/0171-excel-sheet-column-number) |
 | [0402-remove-k-digits](https://github.com/vin1122kum-git/vin1122kum-git/tree/master/0402-remove-k-digits) |
 | [0767-reorganize-string](https://github.com/vin1122kum-git/vin1122kum-git/tree/master/0767-reorganize-string) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/vin1122kum-git/vin1122kum-git/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Backtracking
 |  |
 | ------- |
@@ -97,6 +99,7 @@ I'm Backend Engineer passionate about building scalable distributed systems usin
 | ------- |
 | [0402-remove-k-digits](https://github.com/vin1122kum-git/vin1122kum-git/tree/master/0402-remove-k-digits) |
 | [0767-reorganize-string](https://github.com/vin1122kum-git/vin1122kum-git/tree/master/0767-reorganize-string) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/vin1122kum-git/vin1122kum-git/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -105,4 +108,9 @@ I'm Backend Engineer passionate about building scalable distributed systems usin
 |  |
 | ------- |
 | [0767-reorganize-string](https://github.com/vin1122kum-git/vin1122kum-git/tree/master/0767-reorganize-string) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/vin1122kum-git/vin1122kum-git/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+## Enumeration
+|  |
+| ------- |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/vin1122kum-git/vin1122kum-git/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 <!---LeetCode Topics End-->
