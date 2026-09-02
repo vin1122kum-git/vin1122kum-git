@@ -117,6 +117,7 @@ I'm Backend Engineer passionate about building scalable distributed systems usin
 |  |
 | ------- |
 | [0814-binary-tree-pruning](https://github.com/vin1122kum-git/vin1122kum-git/tree/master/0814-binary-tree-pruning) |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/vin1122kum-git/vin1122kum-git/tree/master/0958-check-completeness-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -125,4 +126,9 @@ I'm Backend Engineer passionate about building scalable distributed systems usin
 |  |
 | ------- |
 | [0814-binary-tree-pruning](https://github.com/vin1122kum-git/vin1122kum-git/tree/master/0814-binary-tree-pruning) |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/vin1122kum-git/vin1122kum-git/tree/master/0958-check-completeness-of-a-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/vin1122kum-git/vin1122kum-git/tree/master/0958-check-completeness-of-a-binary-tree) |
 <!---LeetCode Topics End-->
