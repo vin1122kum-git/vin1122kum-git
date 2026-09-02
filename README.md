@@ -113,4 +113,16 @@ I'm Backend Engineer passionate about building scalable distributed systems usin
 |  |
 | ------- |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/vin1122kum-git/vin1122kum-git/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+## Tree
+|  |
+| ------- |
+| [0814-binary-tree-pruning](https://github.com/vin1122kum-git/vin1122kum-git/tree/master/0814-binary-tree-pruning) |
+## Depth-First Search
+|  |
+| ------- |
+| [0814-binary-tree-pruning](https://github.com/vin1122kum-git/vin1122kum-git/tree/master/0814-binary-tree-pruning) |
+## Binary Tree
+|  |
+| ------- |
+| [0814-binary-tree-pruning](https://github.com/vin1122kum-git/vin1122kum-git/tree/master/0814-binary-tree-pruning) |
 <!---LeetCode Topics End-->
