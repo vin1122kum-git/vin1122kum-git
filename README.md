@@ -56,6 +56,7 @@ I'm Backend Engineer passionate about building scalable distributed systems usin
 | [0088-merge-sorted-array](https://github.com/vin1122kum-git/vin1122kum-git/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vin1122kum-git/vin1122kum-git/tree/master/0215-kth-largest-element-in-an-array) |
 | [0658-find-k-closest-elements](https://github.com/vin1122kum-git/vin1122kum-git/tree/master/0658-find-k-closest-elements) |
+| [3904-smallest-stable-index-ii](https://github.com/vin1122kum-git/vin1122kum-git/tree/master/3904-smallest-stable-index-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -131,4 +132,8 @@ I'm Backend Engineer passionate about building scalable distributed systems usin
 |  |
 | ------- |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/vin1122kum-git/vin1122kum-git/tree/master/0958-check-completeness-of-a-binary-tree) |
+## Prefix Sum
+|  |
+| ------- |
+| [3904-smallest-stable-index-ii](https://github.com/vin1122kum-git/vin1122kum-git/tree/master/3904-smallest-stable-index-ii) |
 <!---LeetCode Topics End-->
