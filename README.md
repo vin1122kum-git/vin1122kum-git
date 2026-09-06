@@ -29,6 +29,7 @@ I'm Backend Engineer passionate about building scalable distributed systems usin
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/vin1122kum-git/vin1122kum-git/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0115-distinct-subsequences](https://github.com/vin1122kum-git/vin1122kum-git/tree/master/0115-distinct-subsequences) |
 | [0168-excel-sheet-column-title](https://github.com/vin1122kum-git/vin1122kum-git/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/vin1122kum-git/vin1122kum-git/tree/master/0171-excel-sheet-column-number) |
 | [0402-remove-k-digits](https://github.com/vin1122kum-git/vin1122kum-git/tree/master/0402-remove-k-digits) |
@@ -136,4 +137,8 @@ I'm Backend Engineer passionate about building scalable distributed systems usin
 |  |
 | ------- |
 | [3904-smallest-stable-index-ii](https://github.com/vin1122kum-git/vin1122kum-git/tree/master/3904-smallest-stable-index-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0115-distinct-subsequences](https://github.com/vin1122kum-git/vin1122kum-git/tree/master/0115-distinct-subsequences) |
 <!---LeetCode Topics End-->
