@@ -34,6 +34,7 @@ I'm Backend Engineer passionate about building scalable distributed systems usin
 | [0171-excel-sheet-column-number](https://github.com/vin1122kum-git/vin1122kum-git/tree/master/0171-excel-sheet-column-number) |
 | [0402-remove-k-digits](https://github.com/vin1122kum-git/vin1122kum-git/tree/master/0402-remove-k-digits) |
 | [0767-reorganize-string](https://github.com/vin1122kum-git/vin1122kum-git/tree/master/0767-reorganize-string) |
+| [0940-distinct-subsequences-ii](https://github.com/vin1122kum-git/vin1122kum-git/tree/master/0940-distinct-subsequences-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/vin1122kum-git/vin1122kum-git/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Backtracking
 |  |
@@ -141,4 +142,5 @@ I'm Backend Engineer passionate about building scalable distributed systems usin
 |  |
 | ------- |
 | [0115-distinct-subsequences](https://github.com/vin1122kum-git/vin1122kum-git/tree/master/0115-distinct-subsequences) |
+| [0940-distinct-subsequences-ii](https://github.com/vin1122kum-git/vin1122kum-git/tree/master/0940-distinct-subsequences-ii) |
 <!---LeetCode Topics End-->
