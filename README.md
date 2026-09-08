@@ -58,6 +58,7 @@ I'm Backend Engineer passionate about building scalable distributed systems usin
 | [0088-merge-sorted-array](https://github.com/vin1122kum-git/vin1122kum-git/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vin1122kum-git/vin1122kum-git/tree/master/0215-kth-largest-element-in-an-array) |
 | [0658-find-k-closest-elements](https://github.com/vin1122kum-git/vin1122kum-git/tree/master/0658-find-k-closest-elements) |
+| [0768-max-chunks-to-make-sorted-ii](https://github.com/vin1122kum-git/vin1122kum-git/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [3904-smallest-stable-index-ii](https://github.com/vin1122kum-git/vin1122kum-git/tree/master/3904-smallest-stable-index-ii) |
 ## Two Pointers
 |  |
@@ -71,6 +72,7 @@ I'm Backend Engineer passionate about building scalable distributed systems usin
 | [0215-kth-largest-element-in-an-array](https://github.com/vin1122kum-git/vin1122kum-git/tree/master/0215-kth-largest-element-in-an-array) |
 | [0658-find-k-closest-elements](https://github.com/vin1122kum-git/vin1122kum-git/tree/master/0658-find-k-closest-elements) |
 | [0767-reorganize-string](https://github.com/vin1122kum-git/vin1122kum-git/tree/master/0767-reorganize-string) |
+| [0768-max-chunks-to-make-sorted-ii](https://github.com/vin1122kum-git/vin1122kum-git/tree/master/0768-max-chunks-to-make-sorted-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -97,16 +99,19 @@ I'm Backend Engineer passionate about building scalable distributed systems usin
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/vin1122kum-git/vin1122kum-git/tree/master/0402-remove-k-digits) |
+| [0768-max-chunks-to-make-sorted-ii](https://github.com/vin1122kum-git/vin1122kum-git/tree/master/0768-max-chunks-to-make-sorted-ii) |
 ## Greedy
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/vin1122kum-git/vin1122kum-git/tree/master/0402-remove-k-digits) |
 | [0767-reorganize-string](https://github.com/vin1122kum-git/vin1122kum-git/tree/master/0767-reorganize-string) |
+| [0768-max-chunks-to-make-sorted-ii](https://github.com/vin1122kum-git/vin1122kum-git/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/vin1122kum-git/vin1122kum-git/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/vin1122kum-git/vin1122kum-git/tree/master/0402-remove-k-digits) |
+| [0768-max-chunks-to-make-sorted-ii](https://github.com/vin1122kum-git/vin1122kum-git/tree/master/0768-max-chunks-to-make-sorted-ii) |
 ## Counting
 |  |
 | ------- |
