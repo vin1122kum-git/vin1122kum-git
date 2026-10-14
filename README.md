@@ -61,6 +61,7 @@ I'm Backend Engineer passionate about building scalable distributed systems usin
 | [0410-split-array-largest-sum](https://github.com/vin1122kum-git/vin1122kum-git/tree/master/0410-split-array-largest-sum) |
 | [0658-find-k-closest-elements](https://github.com/vin1122kum-git/vin1122kum-git/tree/master/0658-find-k-closest-elements) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/vin1122kum-git/vin1122kum-git/tree/master/0768-max-chunks-to-make-sorted-ii) |
+| [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/vin1122kum-git/vin1122kum-git/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [3904-smallest-stable-index-ii](https://github.com/vin1122kum-git/vin1122kum-git/tree/master/3904-smallest-stable-index-ii) |
 ## Two Pointers
 |  |
