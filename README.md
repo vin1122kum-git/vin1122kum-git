@@ -65,6 +65,7 @@ I'm Backend Engineer passionate about building scalable distributed systems usin
 | [0300-longest-increasing-subsequence](https://github.com/vin1122kum-git/vin1122kum-git/tree/master/0300-longest-increasing-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/vin1122kum-git/vin1122kum-git/tree/master/0410-split-array-largest-sum) |
 | [0658-find-k-closest-elements](https://github.com/vin1122kum-git/vin1122kum-git/tree/master/0658-find-k-closest-elements) |
+| [0674-longest-continuous-increasing-subsequence](https://github.com/vin1122kum-git/vin1122kum-git/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/vin1122kum-git/vin1122kum-git/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/vin1122kum-git/vin1122kum-git/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/vin1122kum-git/vin1122kum-git/tree/master/1800-maximum-ascending-subarray-sum) |
