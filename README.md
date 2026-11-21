@@ -30,6 +30,7 @@ I'm Backend Engineer passionate about building scalable distributed systems usin
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/vin1122kum-git/vin1122kum-git/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0044-wildcard-matching](https://github.com/vin1122kum-git/vin1122kum-git/tree/master/0044-wildcard-matching) |
 | [0115-distinct-subsequences](https://github.com/vin1122kum-git/vin1122kum-git/tree/master/0115-distinct-subsequences) |
 | [0168-excel-sheet-column-title](https://github.com/vin1122kum-git/vin1122kum-git/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/vin1122kum-git/vin1122kum-git/tree/master/0171-excel-sheet-column-number) |
@@ -54,6 +55,7 @@ I'm Backend Engineer passionate about building scalable distributed systems usin
 ## Recursion
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/vin1122kum-git/vin1122kum-git/tree/master/0044-wildcard-matching) |
 | [0060-permutation-sequence](https://github.com/vin1122kum-git/vin1122kum-git/tree/master/0060-permutation-sequence) |
 ## Array
 |  |
@@ -111,6 +113,7 @@ I'm Backend Engineer passionate about building scalable distributed systems usin
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/vin1122kum-git/vin1122kum-git/tree/master/0044-wildcard-matching) |
 | [0402-remove-k-digits](https://github.com/vin1122kum-git/vin1122kum-git/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/vin1122kum-git/vin1122kum-git/tree/master/0410-split-array-largest-sum) |
 | [0763-partition-labels](https://github.com/vin1122kum-git/vin1122kum-git/tree/master/0763-partition-labels) |
@@ -164,6 +167,7 @@ I'm Backend Engineer passionate about building scalable distributed systems usin
 ## Dynamic Programming
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/vin1122kum-git/vin1122kum-git/tree/master/0044-wildcard-matching) |
 | [0115-distinct-subsequences](https://github.com/vin1122kum-git/vin1122kum-git/tree/master/0115-distinct-subsequences) |
 | [0410-split-array-largest-sum](https://github.com/vin1122kum-git/vin1122kum-git/tree/master/0410-split-array-largest-sum) |
 | [0940-distinct-subsequences-ii](https://github.com/vin1122kum-git/vin1122kum-git/tree/master/0940-distinct-subsequences-ii) |
