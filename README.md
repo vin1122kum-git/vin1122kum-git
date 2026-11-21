@@ -62,6 +62,7 @@ I'm Backend Engineer passionate about building scalable distributed systems usin
 | ------- |
 | [0088-merge-sorted-array](https://github.com/vin1122kum-git/vin1122kum-git/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vin1122kum-git/vin1122kum-git/tree/master/0215-kth-largest-element-in-an-array) |
+| [0300-longest-increasing-subsequence](https://github.com/vin1122kum-git/vin1122kum-git/tree/master/0300-longest-increasing-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/vin1122kum-git/vin1122kum-git/tree/master/0410-split-array-largest-sum) |
 | [0658-find-k-closest-elements](https://github.com/vin1122kum-git/vin1122kum-git/tree/master/0658-find-k-closest-elements) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/vin1122kum-git/vin1122kum-git/tree/master/0768-max-chunks-to-make-sorted-ii) |
@@ -99,6 +100,7 @@ I'm Backend Engineer passionate about building scalable distributed systems usin
 ## Binary Search
 |  |
 | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/vin1122kum-git/vin1122kum-git/tree/master/0300-longest-increasing-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/vin1122kum-git/vin1122kum-git/tree/master/0410-split-array-largest-sum) |
 | [0658-find-k-closest-elements](https://github.com/vin1122kum-git/vin1122kum-git/tree/master/0658-find-k-closest-elements) |
 ## Sliding Window
@@ -169,10 +171,15 @@ I'm Backend Engineer passionate about building scalable distributed systems usin
 | ------- |
 | [0044-wildcard-matching](https://github.com/vin1122kum-git/vin1122kum-git/tree/master/0044-wildcard-matching) |
 | [0115-distinct-subsequences](https://github.com/vin1122kum-git/vin1122kum-git/tree/master/0115-distinct-subsequences) |
+| [0300-longest-increasing-subsequence](https://github.com/vin1122kum-git/vin1122kum-git/tree/master/0300-longest-increasing-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/vin1122kum-git/vin1122kum-git/tree/master/0410-split-array-largest-sum) |
 | [0940-distinct-subsequences-ii](https://github.com/vin1122kum-git/vin1122kum-git/tree/master/0940-distinct-subsequences-ii) |
 ## Geometry
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/vin1122kum-git/vin1122kum-git/tree/master/0836-rectangle-overlap) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/vin1122kum-git/vin1122kum-git/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
