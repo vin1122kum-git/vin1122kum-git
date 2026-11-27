@@ -1,7 +1,7 @@
 class Solution {
 public:
 int V;
-void dfs(int node,vector<vector<int>>& graph,vector<vector<int>>&ans,vector<int>temp,vector<int> &vis){
+void dfs(int node,vector<vector<int>>& graph,vector<vector<int>>&ans,vector<int>&temp,vector<int> &vis){
     vis[node]=1;
     temp.push_back(node);
 
@@ -28,14 +28,7 @@ void dfs(int node,vector<vector<int>>& graph,vector<vector<int>>&ans,vector<int>
 
         vector<int> vis(V,0);
 
-        // for(int i=0;i<V;i++){
-        //     // if(!vis[i]){
-        //         //  temp.push_back(i);
-        //         dfs(0,graph,ans,temp,vis);
-        //         // temp.pop_back();
-        //     }
-        // }
-
+      
         dfs(0,graph,ans,temp,vis);
 
         return ans;
